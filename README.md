@@ -1,6 +1,4 @@
-# nasa-marsrover
-
-Test Rover
+# Test Rover
 Description
 We are assessing a number of things, including the design aspect of
 your solution, code hygiene, readability and code structure (how easy
