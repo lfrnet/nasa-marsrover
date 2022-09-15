@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/P50dBgLB/qZ7MH3XJDjuS8XWwx7HKtOVXdByiRZnVOndRmM2Utqynq0owthvl21WIUr1P+70eeK/qT3JXynA==",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfrne\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

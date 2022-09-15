@@ -1,0 +1,16 @@
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\Nasa.Rover.Domain.deps.json
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\Nasa.Rover.Domain.dll
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\Nasa.Rover.Domain.pdb
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.AssemblyInfoInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.AssemblyInfo.cs
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.dll
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.pdb
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.csproj.AssemblyReference.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.AssemblyInfoInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.AssemblyInfo.cs
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.dll
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Nasa.Rover.Domain\obj\Debug\netcoreapp3.1\Nasa.Rover.Domain.pdb

@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Develop\\projects\\nasa-marsrover\\src\\Console\\Nasa.MarsRover.ConsoleApp\\Nasa.MarsRover.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Develop\\projects\\nasa-marsrover\\src\\Console\\Nasa.MarsRover.ConsoleApp\\Nasa.MarsRover.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\projects\\nasa-marsrover\\src\\Console\\Nasa.MarsRover.ConsoleApp\\Nasa.MarsRover.ConsoleApp.csproj",
+        "projectName": "Nasa.MarsRover.ConsoleApp",
+        "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Console\\Nasa.MarsRover.ConsoleApp\\Nasa.MarsRover.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\lfrne\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Console\\Nasa.MarsRover.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfrne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj"
+              },
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj"
+              },
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\Nasa.MarsRover.Infra.Ioc.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\Nasa.MarsRover.Infra.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj",
+        "projectName": "Nasa.MarsRover.Application",
+        "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj",
+        "packagesPath": "C:\\Users\\lfrne\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfrne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj",
+        "projectName": "Nasa.MarsRover.Domain",
+        "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj",
+        "packagesPath": "C:\\Users\\lfrne\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfrne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\Nasa.MarsRover.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\Nasa.MarsRover.Infra.Ioc.csproj",
+        "projectName": "Nasa.MarsRover.Infra.Ioc",
+        "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\Nasa.MarsRover.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\lfrne\\.nuget\\packages\\",
+        "outputPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lfrne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Application\\Nasa.MarsRover.Application.csproj"
+              },
+              "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj": {
+                "projectPath": "D:\\Develop\\projects\\nasa-marsrover\\src\\Core\\Nasa.MarsRover.Domain\\Nasa.MarsRover.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Nasa.MarsRover.Api
+build_property.ProjectDir = D:\Develop\projects\nasa-marsrover\src\API\Nasa.MarsRover.Api\

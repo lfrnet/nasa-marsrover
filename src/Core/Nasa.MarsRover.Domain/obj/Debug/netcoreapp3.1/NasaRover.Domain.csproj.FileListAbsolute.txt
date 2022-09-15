@@ -1,0 +1,10 @@
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\NasaRover.Domain.deps.json
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\NasaRover.Domain.dll
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\bin\Debug\netcoreapp3.1\NasaRover.Domain.pdb
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.AssemblyInfoInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.AssemblyInfo.cs
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.dll
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.pdb
+D:\Develop\projects\MarsRover_Test\MarsRover\src\Core\Rover.Domain\obj\Debug\netcoreapp3.1\NasaRover.Domain.csproj.AssemblyReference.cache

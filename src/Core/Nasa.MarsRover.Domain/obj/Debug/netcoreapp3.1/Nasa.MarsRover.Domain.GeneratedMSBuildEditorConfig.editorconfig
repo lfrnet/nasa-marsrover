@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Nasa.MarsRover.Domain
+build_property.ProjectDir = D:\Develop\projects\nasa-marsrover\src\Core\Nasa.MarsRover.Domain\
